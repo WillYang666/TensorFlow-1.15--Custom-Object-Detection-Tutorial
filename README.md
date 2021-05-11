@@ -10,7 +10,7 @@
 ## 环境配置
 ### TensorFlow 官方文件下载
 * 首先在你想放置这个文件夹的路径下新建一个文件夹，这里我取名叫做 `TensorFlow`，路径为`C:\Users\Liam\TensorFlow`
-* 下载 TensorFlow 的[官方 models](https://github.com/tensorflow/models)，注意需要使用 TensorFlow 1.x 版本，最新版本（2.x）不兼容1.x。这里我将我使用的 TensorFlow 1.15 版本给出，[百度网盘下载地址]()。
+* 下载 TensorFlow 的[官方 models](https://github.com/tensorflow/models)，注意需要使用 TensorFlow 1.x 版本，最新版本（2.x）不兼容1.x。这里我将我使用的 TensorFlow 1.15 版本给出，[百度网盘下载地址](https://pan.baidu.com/s/1b9TJJFaOvmGca-5njjcxeA)。   密码: f0e4
 * 将下载的`models`文件夹放置到`TensorFlow`路径下，此时应该得到如下文件树结构：
 ```
 TensorFlow/
