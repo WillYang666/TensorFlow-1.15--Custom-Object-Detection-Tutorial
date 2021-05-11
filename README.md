@@ -3,6 +3,9 @@
 ---
 ## 实现效果：
 ![factory_demo](/assets/factory_demo.gif)
+![Screen Shot 2021-03-08 at 10.10.42 AM](/assets/Screen%20Shot%202021-03-08%20at%2010.10.42%20AM.png)
+![Screen Shot 2021-03-08 at 10.13.53 AM](/assets/Screen%20Shot%202021-03-08%20at%2010.13.53%20AM.png)
+![Screen Shot 2021-03-08 at 10.13.46 AM](/assets/Screen%20Shot%202021-03-08%20at%2010.13.46%20AM.png)
 
 ## 环境配置
 ### TensorFlow 官方文件下载
